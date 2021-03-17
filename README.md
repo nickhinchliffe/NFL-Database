@@ -1,7 +1,7 @@
 # NFL-Database
 ________________________________________________________________________________________________________
 Description:
-This repository gives the user everything they need to create their own NFL SQL Databse. The Database includes
+This repository gives the user everything they need to create their own NFL SQL Databse. The Database includes tables for Teams, Record, Head Coach, Player, Staff, Stadium, and Fan. 
 ________________________________________________________________________________________________________
 Getting Started:
 Install: 
