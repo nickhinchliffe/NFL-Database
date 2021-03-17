@@ -9,18 +9,17 @@ This repository gives the user everything they need to create their own NFL SQL 
 
 
 ________________________________________________________________________________________________________
-Getting Started:
-Install: 
-1) Must have Python installed onto your computer
-2) Download Introduction, TicTacToeServer, and TicTacToe_Chatroom_GUI
-3) Have all three files in the same folder in your respective IDE
-
 Run:
-1) Change variable serverName (in TicTacToe_Chatroom_GUI) to your IP address
-2) Start TicTacToeServer
-3) Start Introduction
-4) Type name into the text box inside of the Introduction GUI
-5) Have fun!
+Install: 
+1) Must have xampp installed onto your computer (link to install: https://www.apachefriends.org/index.html)
+2) Open up XAMPP Control Panel, start both Apache & MySQL
+3) Once both servers are started, go to localhost. This will bring you to the XAMPP dashboard
+4) In the top right corner of the page, click the "phpMyAdmin" button
+5) In the top left column of the next page, click "Databases"
+6) From there, you will be able to name and create an empty database. Please name the database "nfldatabase"
+7) Once that's complete, go to the SQL tab. In the textarea, all of the SQL code from the CreateTables(DDL) file. Hit 'GO'. This creates the database tables.
+8) Next, paste the SQL code in the insertStatements(DDL) to populate the tables. Hit 'GO'.
+9) Have fun!
 
 Features:
 1. A semi functional leaderboard to display top scores
