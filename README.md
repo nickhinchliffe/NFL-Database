@@ -24,19 +24,9 @@ ________________________________________________________________________________
 Demo Video:
 https://youtu.be/U1GjXSO5-II
 
-Note: The top score for the leaderboard button are stored in the leaderboard text file. 
-________________________________________________________________________________________________________
-References:
-1. Geeksforgeek: dictionarys, incrementing dictionary values, Python Tnker 
-https://www.geeksforgeeks.org/
-2. Used to create buttons for the board
-https://codereview.stackexchange.com/questions/212699/tic-tac-toe-game-in-python-3-x-using-tkinter-gui-version-2
-3. Used for the sytax of the buttons
-https://stackoverflow.com/questions/6171493/how-to-set-the-button-sticky-property-properly
-
 ________________________________________________________________________________________________________
 Team Members:
-1) Nick Hinchliffe - Team leader, Network Programmer
-2) Justin Alicea - Leaderboard Planner
-3) Marcus Kwong - Board and Display Designer
+1) Nick Hinchliffe
+2) Sam Dahlberg
+3) Chris Valamarin
  
