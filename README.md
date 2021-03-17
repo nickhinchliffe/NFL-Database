@@ -2,9 +2,9 @@
 ________________________________________________________________________________________________________
 Description:
 This repository gives the user everything they need to create their own NFL SQL Databse. The Database includes tables for Teams, Record, Head Coach, Player, Staff, Stadium, and Fan. The relationship between the tables can be seen in the following ERD diagram:
-<div>
+
 ![image](https://user-images.githubusercontent.com/56371249/111468958-85d2d700-86fc-11eb-9216-3e6ceff461ff.png)
- </div>
+
 
 
 
