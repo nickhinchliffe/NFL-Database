@@ -9,8 +9,7 @@ This repository gives the user everything they need to create their own NFL SQL 
 
 
 ________________________________________________________________________________________________________
-Run:
-Install: 
+Run: 
 1) Must have xampp installed onto your computer (link to install: https://www.apachefriends.org/index.html)
 2) Open up XAMPP Control Panel, start both Apache & MySQL
 3) Once both servers are started, go to localhost. This will bring you to the XAMPP dashboard
@@ -19,16 +18,7 @@ Install:
 6) From there, you will be able to name and create an empty database. Please name the database "nfldatabase"
 7) Once that's complete, go to the SQL tab. In the textarea, all of the SQL code from the CreateTables(DDL) file. Hit 'GO'. This creates the database tables.
 8) Next, paste the SQL code in the insertStatements(DDL) to populate the tables. Hit 'GO'.
-9) Have fun!
-
-Features:
-1. A semi functional leaderboard to display top scores
-2. Two players per game
-3. Functioning chatroom between two players
-4. Interactable Tic-Tac-Toe game 
-5. 'Quit' command that exits the game ({quit})
-6. Introduction page that takes in your entered name 
-
+9) To run SQL queries, past information between labled numbers into the SQL text area. Hit 'GO'. The result of the query/queries will be displayed for you.
 
 ________________________________________________________________________________________________________
 Demo Video:
